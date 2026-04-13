@@ -1,0 +1,2 @@
+prompt_strategy,completeness_mean,completeness_std,accuracy_mean,accuracy_std,fluency_mean,fluency_std,academic_mean,academic_std,overall_mean,overall_std,valid_records
+LLM_Academic_Summary,4.39,0.3377,3.4967,0.3899,4.5067,0.2828,4.1633,0.3419,4.0533,0.336,30
